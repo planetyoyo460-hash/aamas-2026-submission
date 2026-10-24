@@ -1,0 +1,30 @@
+Simulation #115 | seed=45 | turns=6
+Started : 2026-07-01 14:39:20
+Ended   : 2026-07-01 14:52:56
+Duration: 815.8s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=1,480 | Ships=122 | Aircraft=35 | Territory=78.2%
+Green final: Troops=0 | Ships=90 | Aircraft=11 | Territory=21.8%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4o-mini                                   prestige=70
+  Blue Brigade Commander Air B             Mistral-Small-2503                            prestige=70
+  Blue Brigade Commander Land A            Ministral-3B                                  prestige=85
+  Blue Brigade Commander Land B            gpt-4.1-mini                                  prestige=60
+  Blue Brigade Commander Sea A             Phi-4                                         prestige=50
+  Blue Brigade Commander Sea B             Phi-4-reasoning                               prestige=57
+  Blue Chief of Staff                      gpt-4o-mini                                   prestige=75
+  Blue Major General Air                   Phi-4                                         prestige=72
+  Blue Major General Land                  gpt-4o-mini                                   prestige=70
+  Blue Major General Sea                   gpt-4o-mini                                   prestige=80
+  Green Brigade Commander Air A             gpt-4o                                        prestige=0 [DQ]
+  Green Brigade Commander Air B             gpt-4.1-mini                                  prestige=80
+  Green Brigade Commander Land A            Phi-4                                         prestige=53
+  Green Brigade Commander Land B            gpt-4.1                                       prestige=50
+  Green Brigade Commander Sea A             gpt-4.1-nano                                  prestige=70
+  Green Brigade Commander Sea B             gpt-4o                                        prestige=60
+  Green Chief of Staff                      Ministral-3B                                  prestige=80
+  Green Major General Air                   Mistral-Small-2503                            prestige=75
+  Green Major General Land                  gpt-4.1-mini                                  prestige=60
+  Green Major General Sea                   Ministral-3B                                  prestige=87
