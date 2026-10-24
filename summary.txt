@@ -1251,34 +1251,3 @@ Agents:
   Green Major General Sea                   Phi-4                                         prestige=80
 
 ================================================================================
-
-Simulation #367 | seed=47 | turns=19
-Started : 2026-07-11 15:27:24
-Ended   : 2026-07-11 17:21:26
-Duration: 6842.2s
-Winner  : 
-
-Blue  final: Troops=10,000 | Ships=200 | Aircraft=100 | Territory=50.0%
-Green final: Troops=10,000 | Ships=200 | Aircraft=100 | Territory=50.0%
-
-Agents:
-  Blue Brigade Commander Air A             gpt-4o-mini                                   prestige=50
-  Blue Brigade Commander Air B             gpt-4o                                        prestige=50
-  Blue Brigade Commander Land A            Phi-4-reasoning                               prestige=50
-  Blue Brigade Commander Land B            Codestral-2501                                prestige=50
-  Blue Brigade Commander Sea A             Codestral-2501                                prestige=50
-  Blue Brigade Commander Sea B             Mistral-Small-2503                            prestige=50
-  Blue Chief of Staff                      Mistral-Small-2503                            prestige=50
-  Blue Major General Air                   Phi-4                                         prestige=50
-  Blue Major General Land                  Codestral-2501                                prestige=50
-  Blue Major General Sea                   gpt-4.1                                       prestige=50
-  Green Brigade Commander Air A             gpt-4o-mini                                   prestige=50
-  Green Brigade Commander Air B             gpt-4o                                        prestige=50
-  Green Brigade Commander Land A            Phi-4-reasoning                               prestige=50
-  Green Brigade Commander Land B            Codestral-2501                                prestige=50
-  Green Brigade Commander Sea A             Codestral-2501                                prestige=50
-  Green Brigade Commander Sea B             Mistral-Small-2503                            prestige=50
-  Green Chief of Staff                      Mistral-Small-2503                            prestige=50
-  Green Major General Air                   Phi-4                                         prestige=50
-  Green Major General Land                  Codestral-2501                                prestige=50
-  Green Major General Sea                   gpt-4.1                                       prestige=50
