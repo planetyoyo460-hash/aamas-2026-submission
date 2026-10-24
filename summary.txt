@@ -1,3 +1,630 @@
+Simulation #2 | seed=42 | turns=5
+Started : 2026-06-29 09:01:52
+Ended   : 2026-06-29 09:04:56
+Duration: 184.5s
+Winner  : 🟢 GREEN WINS — Blue ground forces annihilated!
+
+Blue  final: Troops=0 | Ships=88 | Aircraft=19 | Territory=39.3%
+Green final: Troops=563 | Ships=114 | Aircraft=21 | Territory=60.7%
+
+Agents:
+  Blue Brigade Commander Air A             Qwen3-32B                                     prestige=55
+  Blue Brigade Commander Air B             gpt-4o-mini                                   prestige=60
+  Blue Brigade Commander Land A            Mistral-Small-2503                            prestige=90
+  Blue Brigade Commander Land B            gpt-4.1-mini                                  prestige=80
+  Blue Brigade Commander Sea A             Llama-4-Scout-17B-16E-Instruct                prestige=52
+  Blue Brigade Commander Sea B             gpt-4o                                        prestige=10 [DQ]
+  Blue Chief of Staff                      Ministral-3B                                  prestige=60
+  Blue Major General Air                   gpt-4.1                                       prestige=80
+  Blue Major General Land                  Ministral-3B                                  prestige=60
+  Blue Major General Sea                   gpt-4.1-nano                                  prestige=65
+  Green Brigade Commander Air A             Ministral-3B                                  prestige=65
+  Green Brigade Commander Air B             gpt-4.1-nano                                  prestige=73
+  Green Brigade Commander Land A            gpt-4o                                        prestige=65
+  Green Brigade Commander Land B            Mistral-Small-2503                            prestige=55
+  Green Brigade Commander Sea A             gpt-4o                                        prestige=0 [DQ]
+  Green Brigade Commander Sea B             Mistral-Small-2503                            prestige=75
+  Green Chief of Staff                      gpt-4.1                                       prestige=79
+  Green Major General Air                   gpt-4o                                        prestige=87
+  Green Major General Land                  gpt-4.1-nano                                  prestige=73
+  Green Major General Sea                   gpt-4.1-nano                                  prestige=70
+
+================================================================================
+
+Simulation #3 | seed=43 | turns=5
+Started : 2026-06-29 09:04:56
+Ended   : 2026-06-29 09:09:41
+Duration: 284.5s
+Winner  : 🟢 GREEN WINS — Blue ground forces annihilated!
+
+Blue  final: Troops=0 | Ships=102 | Aircraft=20 | Territory=27.2%
+Green final: Troops=1,065 | Ships=109 | Aircraft=39 | Territory=72.8%
+
+Agents:
+  Blue Brigade Commander Air A             Ministral-3B                                  prestige=55
+  Blue Brigade Commander Air B             Codestral-2501                                prestige=70
+  Blue Brigade Commander Land A            Phi-4-reasoning                               prestige=55
+  Blue Brigade Commander Land B            Ministral-3B                                  prestige=55
+  Blue Brigade Commander Sea A             Qwen3-32B                                     prestige=60
+  Blue Brigade Commander Sea B             Qwen3-32B                                     prestige=62
+  Blue Chief of Staff                      Qwen3-32B                                     prestige=62
+  Blue Major General Air                   gpt-4o                                        prestige=75
+  Blue Major General Land                  gpt-4o                                        prestige=75
+  Blue Major General Sea                   Codestral-2501                                prestige=60
+  Green Brigade Commander Air A             Phi-4-reasoning                               prestige=49
+  Green Brigade Commander Air B             gpt-4.1-nano                                  prestige=60
+  Green Brigade Commander Land A            gpt-4.1                                       prestige=65
+  Green Brigade Commander Land B            Ministral-3B                                  prestige=55
+  Green Brigade Commander Sea A             gpt-4o-mini                                   prestige=75
+  Green Brigade Commander Sea B             Codestral-2501                                prestige=65
+  Green Chief of Staff                      gpt-4.1                                       prestige=68
+  Green Major General Air                   Phi-4-reasoning                               prestige=60
+  Green Major General Land                  gpt-4o                                        prestige=85
+  Green Major General Sea                   gpt-4o                                        prestige=75
+
+================================================================================
+
+Simulation #4 | seed=44 | turns=5
+Started : 2026-06-29 09:09:41
+Ended   : 2026-06-29 09:14:08
+Duration: 267.2s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=1,305 | Ships=110 | Aircraft=33 | Territory=71.2%
+Green final: Troops=0 | Ships=78 | Aircraft=11 | Territory=28.8%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4.1-mini                                  prestige=92
+  Blue Brigade Commander Air B             Mistral-Small-2503                            prestige=75
+  Blue Brigade Commander Land A            gpt-4.1-nano                                  prestige=70
+  Blue Brigade Commander Land B            Llama-4-Scout-17B-16E-Instruct                prestige=65
+  Blue Brigade Commander Sea A             Mistral-Small-2503                            prestige=70
+  Blue Brigade Commander Sea B             gpt-4.1-mini                                  prestige=80
+  Blue Chief of Staff                      gpt-4o-mini                                   prestige=80
+  Blue Major General Air                   gpt-4o-mini                                   prestige=60
+  Blue Major General Land                  gpt-4.1-nano                                  prestige=62
+  Blue Major General Sea                   Qwen3-32B                                     prestige=52
+  Green Brigade Commander Air A             gpt-4o                                        prestige=70
+  Green Brigade Commander Air B             gpt-4o-mini                                   prestige=50
+  Green Brigade Commander Land A            Phi-4-reasoning                               prestige=49
+  Green Brigade Commander Land B            Llama-4-Scout-17B-16E-Instruct                prestige=60
+  Green Brigade Commander Sea A             gpt-4.1                                       prestige=65
+  Green Brigade Commander Sea B             Phi-4-reasoning                               prestige=52
+  Green Chief of Staff                      gpt-4o                                        prestige=70
+  Green Major General Air                   Llama-4-Scout-17B-16E-Instruct                prestige=65
+  Green Major General Land                  gpt-4o                                        prestige=80
+  Green Major General Sea                   gpt-4o-mini                                   prestige=80
+
+================================================================================
+
+Simulation #5 | seed=45 | turns=5
+Started : 2026-06-29 09:14:08
+Ended   : 2026-06-29 09:21:10
+Duration: 421.9s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=520 | Ships=111 | Aircraft=22 | Territory=54.6%
+Green final: Troops=0 | Ships=97 | Aircraft=16 | Territory=45.4%
+
+Agents:
+  Blue Brigade Commander Air A             Mistral-Small-2503                            prestige=70
+  Blue Brigade Commander Air B             gpt-4o                                        prestige=55
+  Blue Brigade Commander Land A            gpt-4o-mini                                   prestige=90
+  Blue Brigade Commander Land B            gpt-4.1                                       prestige=65
+  Blue Brigade Commander Sea A             gpt-4o-mini                                   prestige=50
+  Blue Brigade Commander Sea B             gpt-4o                                        prestige=57
+  Blue Chief of Staff                      gpt-4o                                        prestige=65
+  Blue Major General Air                   Ministral-3B                                  prestige=75
+  Blue Major General Land                  Ministral-3B                                  prestige=70
+  Blue Major General Sea                   gpt-4o-mini                                   prestige=90
+  Green Brigade Commander Air A             Llama-4-Scout-17B-16E-Instruct                prestige=70
+  Green Brigade Commander Air B             gpt-4o                                        prestige=75
+  Green Brigade Commander Land A            Llama-4-Scout-17B-16E-Instruct                prestige=60
+  Green Brigade Commander Land B            Mistral-Small-2503                            prestige=60
+  Green Brigade Commander Sea A             Qwen3-32B                                     prestige=47
+  Green Brigade Commander Sea B             Phi-4-reasoning                               prestige=57
+  Green Chief of Staff                      Ministral-3B                                  prestige=75
+  Green Major General Air                   Phi-4-reasoning                               prestige=57
+  Green Major General Land                  Llama-4-Scout-17B-16E-Instruct                prestige=60
+  Green Major General Sea                   Ministral-3B                                  prestige=65
+
+================================================================================
+
+Simulation #6 | seed=46 | turns=6
+Started : 2026-06-29 09:21:10
+Ended   : 2026-06-29 09:37:08
+Duration: 958.2s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=2,086 | Ships=126 | Aircraft=48 | Territory=64.8%
+Green final: Troops=0 | Ships=107 | Aircraft=29 | Territory=35.2%
+
+Agents:
+  Blue Brigade Commander Air A             Codestral-2501                                prestige=70
+  Blue Brigade Commander Air B             Mistral-Small-2503                            prestige=80
+  Blue Brigade Commander Land A            gpt-4o-mini                                   prestige=70
+  Blue Brigade Commander Land B            Qwen3-32B                                     prestige=55
+  Blue Brigade Commander Sea A             gpt-4.1-nano                                  prestige=65
+  Blue Brigade Commander Sea B             gpt-4.1-mini                                  prestige=50
+  Blue Chief of Staff                      Qwen3-32B                                     prestige=54
+  Blue Major General Air                   Llama-4-Scout-17B-16E-Instruct                prestige=70
+  Blue Major General Land                  Qwen3-32B                                     prestige=55
+  Blue Major General Sea                   gpt-4.1                                       prestige=63
+  Green Brigade Commander Air A             Llama-4-Scout-17B-16E-Instruct                prestige=60
+  Green Brigade Commander Air B             Phi-4-reasoning                               prestige=38
+  Green Brigade Commander Land A            Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Green Brigade Commander Land B            gpt-4.1-nano                                  prestige=65
+  Green Brigade Commander Sea A             Mistral-Small-2503                            prestige=0 [DQ]
+  Green Brigade Commander Sea B             Mistral-Small-2503                            prestige=85
+  Green Chief of Staff                      Ministral-3B                                  prestige=80
+  Green Major General Air                   Llama-4-Scout-17B-16E-Instruct                prestige=65
+  Green Major General Land                  Codestral-2501                                prestige=60
+  Green Major General Sea                   gpt-4.1                                       prestige=7 [DQ]
+
+================================================================================
+
+Simulation #9 | seed=42 | turns=2
+Started : 2026-07-01 14:06:29
+Ended   : 2026-07-01 14:09:16
+Duration: 166.2s
+Winner  : 
+
+Blue  final: Troops=6,123 | Ships=165 | Aircraft=78 | Territory=56.9%
+Green final: Troops=5,516 | Ships=151 | Aircraft=71 | Territory=43.1%
+
+Agents:
+  Blue Brigade Commander Air A             DeepSeek-V3-0324                              prestige=60
+  Blue Brigade Commander Air B             gpt-4.1-mini                                  prestige=65
+  Blue Brigade Commander Land A            Ministral-3B                                  prestige=55
+  Blue Brigade Commander Land B            Ministral-3B                                  prestige=63
+  Blue Brigade Commander Sea A             Phi-4-reasoning                               prestige=50
+  Blue Brigade Commander Sea B             DeepSeek-R1                                   prestige=47
+  Blue Chief of Staff                      Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Blue Major General Air                   gpt-4o-mini                                   prestige=65
+  Blue Major General Land                  Qwen3-32B                                     prestige=50
+  Blue Major General Sea                   gpt-4.1                                       prestige=50
+  Green Brigade Commander Air A             DeepSeek-R1                                   prestige=55
+  Green Brigade Commander Air B             Codestral-2501                                prestige=55
+  Green Brigade Commander Land A            DeepSeek-R1-0528                              prestige=47
+  Green Brigade Commander Land B            Qwen3-32B                                     prestige=50
+  Green Brigade Commander Sea A             Qwen3-32B                                     prestige=65
+  Green Brigade Commander Sea B             Llama-4-Scout-17B-16E-Instruct                prestige=55
+  Green Chief of Staff                      Llama-4-Scout-17B-16E-Instruct                prestige=60
+  Green Major General Air                   Phi-4-reasoning                               prestige=52
+  Green Major General Land                  Phi-4-reasoning                               prestige=55
+  Green Major General Sea                   Phi-4-reasoning                               prestige=50
+
+================================================================================
+
+Simulation #10 | seed=43 | turns=5
+Started : 2026-07-01 14:07:12
+Ended   : 2026-07-01 14:12:09
+Duration: 297.1s
+Winner  : 🟢 GREEN WINS — Blue ground forces annihilated!
+
+Blue  final: Troops=0 | Ships=110 | Aircraft=26 | Territory=33.7%
+Green final: Troops=1,337 | Ships=119 | Aircraft=33 | Territory=66.3%
+
+Agents:
+  Blue Brigade Commander Air A             Mistral-Small-2503                            prestige=85
+  Blue Brigade Commander Air B             Mistral-Small-2503                            prestige=100
+  Blue Brigade Commander Land A            gpt-4o                                        prestige=55
+  Blue Brigade Commander Land B            gpt-4.1                                       prestige=50
+  Blue Brigade Commander Sea A             DeepSeek-R1                                   prestige=55
+  Blue Brigade Commander Sea B             Ministral-3B                                  prestige=70
+  Blue Chief of Staff                      Phi-4                                         prestige=80
+  Blue Major General Air                   gpt-4.1                                       prestige=10 [DQ]
+  Blue Major General Land                  Qwen3-32B                                     prestige=54
+  Blue Major General Sea                   Phi-4                                         prestige=55
+  Green Brigade Commander Air A             gpt-4.1                                       prestige=78
+  Green Brigade Commander Air B             DeepSeek-R1                                   prestige=44
+  Green Brigade Commander Land A            gpt-4o-mini                                   prestige=55
+  Green Brigade Commander Land B            gpt-4o-mini                                   prestige=60
+  Green Brigade Commander Sea A             Codestral-2501                                prestige=75
+  Green Brigade Commander Sea B             Qwen3-32B                                     prestige=52
+  Green Chief of Staff                      DeepSeek-R1-0528                              prestige=60
+  Green Major General Air                   Qwen3-32B                                     prestige=60
+  Green Major General Land                  Mistral-Small-2503                            prestige=85
+  Green Major General Sea                   gpt-4o-mini                                   prestige=75
+
+================================================================================
+
+Simulation #11 | seed=44 | turns=5
+Started : 2026-07-01 14:12:09
+Ended   : 2026-07-01 14:18:56
+Duration: 406.9s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=838 | Ships=91 | Aircraft=23 | Territory=63.8%
+Green final: Troops=0 | Ships=89 | Aircraft=16 | Territory=36.2%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4.1-nano                                  prestige=65
+  Blue Brigade Commander Air B             gpt-4.1                                       prestige=75
+  Blue Brigade Commander Land A            gpt-4o                                        prestige=67
+  Blue Brigade Commander Land B            Ministral-3B                                  prestige=55
+  Blue Brigade Commander Sea A             Ministral-3B                                  prestige=65
+  Blue Brigade Commander Sea B             Ministral-3B                                  prestige=55
+  Blue Chief of Staff                      gpt-4.1-nano                                  prestige=82
+  Blue Major General Air                   Codestral-2501                                prestige=60
+  Blue Major General Land                  gpt-4o                                        prestige=65
+  Blue Major General Sea                   Qwen3-32B                                     prestige=52
+  Green Brigade Commander Air A             Codestral-2501                                prestige=65
+  Green Brigade Commander Air B             gpt-4.1-mini                                  prestige=50
+  Green Brigade Commander Land A            Qwen3-32B                                     prestige=57
+  Green Brigade Commander Land B            DeepSeek-R1                                   prestige=75
+  Green Brigade Commander Sea A             gpt-4.1-mini                                  prestige=0 [DQ]
+  Green Brigade Commander Sea B             DeepSeek-R1                                   prestige=42
+  Green Chief of Staff                      Mistral-Small-2503                            prestige=70
+  Green Major General Air                   Codestral-2501                                prestige=60
+  Green Major General Land                  DeepSeek-V3-0324                              prestige=70
+  Green Major General Sea                   Llama-4-Scout-17B-16E-Instruct                prestige=85
+
+================================================================================
+
+Simulation #12 | seed=45 | turns=6
+Started : 2026-07-01 14:18:56
+Ended   : 2026-07-01 14:28:21
+Duration: 564.9s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=2,014 | Ships=123 | Aircraft=26 | Territory=76.5%
+Green final: Troops=0 | Ships=72 | Aircraft=11 | Territory=23.5%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4.1-nano                                  prestige=62
+  Blue Brigade Commander Air B             Mistral-Small-2503                            prestige=70
+  Blue Brigade Commander Land A            gpt-4.1-nano                                  prestige=70
+  Blue Brigade Commander Land B            Llama-4-Scout-17B-16E-Instruct                prestige=62
+  Blue Brigade Commander Sea A             DeepSeek-V3-0324                              prestige=50
+  Blue Brigade Commander Sea B             Ministral-3B                                  prestige=70
+  Blue Chief of Staff                      Qwen3-32B                                     prestige=54
+  Blue Major General Air                   gpt-4o                                        prestige=95
+  Blue Major General Land                  gpt-4.1-mini                                  prestige=70
+  Blue Major General Sea                   Llama-4-Scout-17B-16E-Instruct                prestige=75
+  Green Brigade Commander Air A             Llama-4-Scout-17B-16E-Instruct                prestige=85
+  Green Brigade Commander Air B             gpt-4.1                                       prestige=63
+  Green Brigade Commander Land A            gpt-4o-mini                                   prestige=60
+  Green Brigade Commander Land B            gpt-4.1-mini                                  prestige=60
+  Green Brigade Commander Sea A             gpt-4o-mini                                   prestige=70
+  Green Brigade Commander Sea B             gpt-4.1                                       prestige=65
+  Green Chief of Staff                      Phi-4-reasoning                               prestige=44
+  Green Major General Air                   Phi-4-reasoning                               prestige=41
+  Green Major General Land                  Qwen3-32B                                     prestige=49
+  Green Major General Sea                   DeepSeek-R1                                   prestige=75
+
+================================================================================
+
+Simulation #51 | seed=42 | turns=6
+Started : 2026-07-07 22:17:13
+Ended   : 2026-07-07 22:28:00
+Duration: 647.2s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=1,012 | Ships=111 | Aircraft=23 | Territory=65.3%
+Green final: Troops=0 | Ships=101 | Aircraft=26 | Territory=34.7%
+
+Agents:
+  Blue Brigade Commander Air A             DeepSeek-R1                                   prestige=55
+  Blue Brigade Commander Air B             DeepSeek-R1-0528                              prestige=0 [DQ]
+  Blue Brigade Commander Land A            Ministral-3B                                  prestige=60
+  Blue Brigade Commander Land B            Ministral-3B                                  prestige=70
+  Blue Brigade Commander Sea A             Phi-4                                         prestige=80
+  Blue Brigade Commander Sea B             Llama-4-Scout-17B-16E-Instruct                prestige=80
+  Blue Chief of Staff                      gpt-4.1-mini                                  prestige=70
+  Blue Major General Air                   Phi-4-reasoning                               prestige=56
+  Blue Major General Land                  gpt-4.1-nano                                  prestige=60
+  Blue Major General Sea                   Qwen3-32B                                     prestige=55
+  Green Brigade Commander Air A             Llama-4-Scout-17B-16E-Instruct                prestige=65
+  Green Brigade Commander Air B             Codestral-2501                                prestige=49
+  Green Brigade Commander Land A            gpt-4o-mini                                   prestige=95
+  Green Brigade Commander Land B            gpt-4.1-nano                                  prestige=75
+  Green Brigade Commander Sea A             gpt-4.1-nano                                  prestige=75
+  Green Brigade Commander Sea B             gpt-4.1-mini                                  prestige=0 [DQ]
+  Green Chief of Staff                      gpt-4.1-mini                                  prestige=90
+  Green Major General Air                   Phi-4                                         prestige=10 [DQ]
+  Green Major General Land                  Phi-4                                         prestige=50
+  Green Major General Sea                   Phi-4                                         prestige=65
+
+================================================================================
+
+Simulation #51 | seed=42 | turns=5
+Started : 2026-07-07 22:45:42
+Ended   : 2026-07-07 22:54:30
+Duration: 528.1s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=364 | Ships=99 | Aircraft=24 | Territory=62.1%
+Green final: Troops=0 | Ships=100 | Aircraft=22 | Territory=37.9%
+
+Agents:
+  Blue Brigade Commander Air A             Llama-4-Scout-17B-16E-Instruct                prestige=60
+  Blue Brigade Commander Air B             gpt-4.1-nano                                  prestige=55
+  Blue Brigade Commander Land A            Ministral-3B                                  prestige=75
+  Blue Brigade Commander Land B            Ministral-3B                                  prestige=80
+  Blue Brigade Commander Sea A             Qwen3-32B                                     prestige=70
+  Blue Brigade Commander Sea B             gpt-4.1-mini                                  prestige=75
+  Blue Chief of Staff                      Llama-4-Scout-17B-16E-Instruct                prestige=60
+  Blue Major General Air                   gpt-4.1-mini                                  prestige=69
+  Blue Major General Land                  Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Blue Major General Sea                   gpt-4.1-nano                                  prestige=55
+  Green Brigade Commander Air A             gpt-4o                                        prestige=60
+  Green Brigade Commander Air B             Mistral-Small-2503                            prestige=65
+  Green Brigade Commander Land A            gpt-4.1-mini                                  prestige=60
+  Green Brigade Commander Land B            Phi-4-reasoning                               prestige=55
+  Green Brigade Commander Sea A             gpt-4.1-mini                                  prestige=0 [DQ]
+  Green Brigade Commander Sea B             Ministral-3B                                  prestige=65
+  Green Chief of Staff                      Phi-4-reasoning                               prestige=70
+  Green Major General Air                   gpt-4o-mini                                   prestige=90
+  Green Major General Land                  gpt-4.1-nano                                  prestige=70
+  Green Major General Sea                   gpt-4.1-nano                                  prestige=60
+
+================================================================================
+
+Simulation #101 | seed=42 | turns=5
+Started : 2026-07-07 22:14:48
+Ended   : 2026-07-07 22:21:56
+Duration: 427.9s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=270 | Ships=108 | Aircraft=30 | Territory=63.3%
+Green final: Troops=0 | Ships=92 | Aircraft=26 | Territory=36.7%
+
+Agents:
+  Blue Brigade Commander Air A             DeepSeek-V3-0324                              prestige=55
+  Blue Brigade Commander Air B             Qwen3-32B                                     prestige=52
+  Blue Brigade Commander Land A            Ministral-3B                                  prestige=75
+  Blue Brigade Commander Land B            Ministral-3B                                  prestige=65
+  Blue Brigade Commander Sea A             Phi-4-reasoning                               prestige=70
+  Blue Brigade Commander Sea B             DeepSeek-R1-0528                              prestige=56
+  Blue Chief of Staff                      gpt-4o                                        prestige=60
+  Blue Major General Air                   gpt-4o-mini                                   prestige=90
+  Blue Major General Land                  gpt-4.1                                       prestige=55
+  Blue Major General Sea                   Mistral-Small-2503                            prestige=70
+  Green Brigade Commander Air A             DeepSeek-R1-0528                              prestige=55
+  Green Brigade Commander Air B             Codestral-2501                                prestige=65
+  Green Brigade Commander Land A            DeepSeek-R1                                   prestige=62
+  Green Brigade Commander Land B            gpt-4.1                                       prestige=65
+  Green Brigade Commander Sea A             gpt-4.1                                       prestige=86
+  Green Brigade Commander Sea B             gpt-4o                                        prestige=70
+  Green Chief of Staff                      gpt-4o                                        prestige=70
+  Green Major General Air                   Phi-4-reasoning                               prestige=57
+  Green Major General Land                  Phi-4-reasoning                               prestige=70
+  Green Major General Sea                   Phi-4-reasoning                               prestige=50
+
+================================================================================
+
+Simulation #101 | seed=42 | turns=5
+Started : 2026-07-07 22:45:13
+Ended   : 2026-07-07 22:51:38
+Duration: 384.9s
+Winner  : 🟢 GREEN WINS — Blue ground forces annihilated!
+
+Blue  final: Troops=0 | Ships=90 | Aircraft=16 | Territory=27.5%
+Green final: Troops=2,102 | Ships=114 | Aircraft=34 | Territory=72.5%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4o                                        prestige=55
+  Blue Brigade Commander Air B             gpt-4.1-nano                                  prestige=60
+  Blue Brigade Commander Land A            Codestral-2501                                prestige=60
+  Blue Brigade Commander Land B            Qwen3-32B                                     prestige=54
+  Blue Brigade Commander Sea A             gpt-4.1                                       prestige=80
+  Blue Brigade Commander Sea B             Mistral-Small-2503                            prestige=85
+  Blue Chief of Staff                      gpt-4o-mini                                   prestige=57
+  Blue Major General Air                   Llama-4-Scout-17B-16E-Instruct                prestige=65
+  Blue Major General Land                  gpt-4o-mini                                   prestige=55
+  Blue Major General Sea                   Ministral-3B                                  prestige=45
+  Green Brigade Commander Air A             gpt-4o-mini                                   prestige=65
+  Green Brigade Commander Air B             Ministral-3B                                  prestige=65
+  Green Brigade Commander Land A            Mistral-Small-2503                            prestige=75
+  Green Brigade Commander Land B            Codestral-2501                                prestige=65
+  Green Brigade Commander Sea A             Mistral-Small-2503                            prestige=80
+  Green Brigade Commander Sea B             Codestral-2501                                prestige=60
+  Green Chief of Staff                      Llama-4-Scout-17B-16E-Instruct                prestige=70
+  Green Major General Air                   Mistral-Small-2503                            prestige=77
+  Green Major General Land                  Ministral-3B                                  prestige=65
+  Green Major General Sea                   Ministral-3B                                  prestige=50
+
+================================================================================
+
+Simulation #102 | seed=43 | turns=4
+Started : 2026-07-07 22:21:56
+Ended   : 2026-07-07 22:28:30
+Duration: 394.2s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=3,160 | Ships=141 | Aircraft=54 | Territory=72.5%
+Green final: Troops=0 | Ships=108 | Aircraft=29 | Territory=27.5%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4.1                                       prestige=77
+  Blue Brigade Commander Air B             gpt-4o-mini                                   prestige=85
+  Blue Brigade Commander Land A            Ministral-3B                                  prestige=60
+  Blue Brigade Commander Land B            Ministral-3B                                  prestige=55
+  Blue Brigade Commander Sea A             gpt-4o-mini                                   prestige=60
+  Blue Brigade Commander Sea B             DeepSeek-R1-0528                              prestige=60
+  Blue Chief of Staff                      gpt-4.1-nano                                  prestige=70
+  Blue Major General Air                   DeepSeek-R1-0528                              prestige=60
+  Blue Major General Land                  gpt-4.1-mini                                  prestige=70
+  Blue Major General Sea                   gpt-4.1-nano                                  prestige=55
+  Green Brigade Commander Air A             gpt-4.1-mini                                  prestige=75
+  Green Brigade Commander Air B             Ministral-3B                                  prestige=55
+  Green Brigade Commander Land A            gpt-4.1                                       prestige=67
+  Green Brigade Commander Land B            gpt-4.1                                       prestige=50
+  Green Brigade Commander Sea A             DeepSeek-R1                                   prestige=62
+  Green Brigade Commander Sea B             DeepSeek-R1-0528                              prestige=52
+  Green Chief of Staff                      Mistral-Small-2503                            prestige=55
+  Green Major General Air                   gpt-4.1-mini                                  prestige=55
+  Green Major General Land                  gpt-4o                                        prestige=65
+  Green Major General Sea                   Ministral-3B                                  prestige=65
+
+================================================================================
+
+Simulation #102 | seed=43 | turns=7
+Started : 2026-07-07 22:51:38
+Ended   : 2026-07-07 23:03:47
+Duration: 729.3s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=1,947 | Ships=130 | Aircraft=34 | Territory=62.2%
+Green final: Troops=0 | Ships=101 | Aircraft=13 | Territory=37.8%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4o-mini                                   prestige=95
+  Blue Brigade Commander Air B             Phi-4-reasoning                               prestige=53
+  Blue Brigade Commander Land A            gpt-4.1-mini                                  prestige=60
+  Blue Brigade Commander Land B            gpt-4o-mini                                   prestige=70
+  Blue Brigade Commander Sea A             gpt-4o                                        prestige=50
+  Blue Brigade Commander Sea B             gpt-4o                                        prestige=65
+  Blue Chief of Staff                      gpt-4o                                        prestige=80
+  Blue Major General Air                   Mistral-Small-2503                            prestige=70
+  Blue Major General Land                  Mistral-Small-2503                            prestige=75
+  Blue Major General Sea                   Phi-4-reasoning                               prestige=55
+  Green Brigade Commander Air A             gpt-4.1-mini                                  prestige=20 [DQ]
+  Green Brigade Commander Air B             Ministral-3B                                  prestige=50
+  Green Brigade Commander Land A            Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Green Brigade Commander Land B            gpt-4o-mini                                   prestige=60
+  Green Brigade Commander Sea A             gpt-4.1-nano                                  prestige=60
+  Green Brigade Commander Sea B             Phi-4-reasoning                               prestige=47
+  Green Chief of Staff                      Llama-4-Scout-17B-16E-Instruct                prestige=75
+  Green Major General Air                   gpt-4.1-mini                                  prestige=0 [DQ]
+  Green Major General Land                  Mistral-Small-2503                            prestige=80
+  Green Major General Sea                   Mistral-Small-2503                            prestige=75
+
+================================================================================
+
+Simulation #103 | seed=44 | turns=6
+Started : 2026-07-07 23:03:47
+Ended   : 2026-07-07 23:15:51
+Duration: 723.6s
+Winner  : 🟢 GREEN WINS — Territorial dominance (89.2% controlled)!
+
+Blue  final: Troops=0 | Ships=108 | Aircraft=33 | Territory=10.8%
+Green final: Troops=5,957 | Ships=153 | Aircraft=69 | Territory=89.2%
+
+Agents:
+  Blue Brigade Commander Air A             Qwen3-32B                                     prestige=49
+  Blue Brigade Commander Air B             Codestral-2501                                prestige=60
+  Blue Brigade Commander Land A            Ministral-3B                                  prestige=50
+  Blue Brigade Commander Land B            gpt-4.1                                       prestige=77
+  Blue Brigade Commander Sea A             Codestral-2501                                prestige=60
+  Blue Brigade Commander Sea B             Qwen3-32B                                     prestige=41
+  Blue Chief of Staff                      gpt-4.1-nano                                  prestige=78
+  Blue Major General Air                   gpt-4.1-nano                                  prestige=0 [DQ]
+  Blue Major General Land                  Ministral-3B                                  prestige=60
+  Blue Major General Sea                   gpt-4o                                        prestige=0 [DQ]
+  Green Brigade Commander Air A             Mistral-Small-2503                            prestige=70
+  Green Brigade Commander Air B             gpt-4.1-nano                                  prestige=50
+  Green Brigade Commander Land A            gpt-4.1-mini                                  prestige=70
+  Green Brigade Commander Land B            gpt-4.1                                       prestige=70
+  Green Brigade Commander Sea A             Llama-4-Scout-17B-16E-Instruct                prestige=60
+  Green Brigade Commander Sea B             gpt-4.1-mini                                  prestige=60
+  Green Chief of Staff                      Mistral-Small-2503                            prestige=80
+  Green Major General Air                   gpt-4.1                                       prestige=60
+  Green Major General Land                  Mistral-Small-2503                            prestige=85
+  Green Major General Sea                   gpt-4.1-nano                                  prestige=75
+
+================================================================================
+
+Simulation #112 | seed=42 | turns=5
+Started : 2026-07-01 14:21:36
+Ended   : 2026-07-01 14:26:34
+Duration: 298.8s
+Winner  : 🟢 GREEN WINS — Blue ground forces annihilated!
+
+Blue  final: Troops=0 | Ships=84 | Aircraft=15 | Territory=39.1%
+Green final: Troops=85 | Ships=96 | Aircraft=27 | Territory=60.9%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4o-mini                                   prestige=47
+  Blue Brigade Commander Air B             gpt-4.1-mini                                  prestige=65
+  Blue Brigade Commander Land A            Qwen3-32B                                     prestige=41
+  Blue Brigade Commander Land B            Qwen3-32B                                     prestige=70
+  Blue Brigade Commander Sea A             gpt-4.1                                       prestige=76
+  Blue Brigade Commander Sea B             Ministral-3B                                  prestige=67
+  Blue Chief of Staff                      gpt-4o                                        prestige=60
+  Blue Major General Air                   Llama-4-Scout-17B-16E-Instruct                prestige=65
+  Blue Major General Land                  Phi-4                                         prestige=55
+  Blue Major General Sea                   Phi-4-reasoning                               prestige=70
+  Green Brigade Commander Air A             Ministral-3B                                  prestige=55
+  Green Brigade Commander Air B             gpt-4o                                        prestige=65
+  Green Brigade Commander Land A            Codestral-2501                                prestige=75
+  Green Brigade Commander Land B            Phi-4                                         prestige=50
+  Green Brigade Commander Sea A             Phi-4                                         prestige=95
+  Green Brigade Commander Sea B             gpt-4o                                        prestige=52
+  Green Chief of Staff                      gpt-4o                                        prestige=80
+  Green Major General Air                   gpt-4.1                                       prestige=68
+  Green Major General Land                  gpt-4.1                                       prestige=70
+  Green Major General Sea                   gpt-4.1                                       prestige=50
+
+================================================================================
+
+Simulation #113 | seed=43 | turns=5
+Started : 2026-07-01 14:26:35
+Ended   : 2026-07-01 14:34:02
+Duration: 447.3s
+Winner  : ⚪ DRAW — Mutual annihilation with no decisive territorial advantage (Blue 51.5% / Green 48.5%)!
+
+Blue  final: Troops=0 | Ships=105 | Aircraft=27 | Territory=51.5%
+Green final: Troops=0 | Ships=117 | Aircraft=29 | Territory=48.5%
+
+Agents:
+  Blue Brigade Commander Air A             Codestral-2501                                prestige=52
+  Blue Brigade Commander Air B             gpt-4o                                        prestige=0 [DQ]
+  Blue Brigade Commander Land A            gpt-4.1-mini                                  prestige=60
+  Blue Brigade Commander Land B            Codestral-2501                                prestige=60
+  Blue Brigade Commander Sea A             Mistral-Small-2503                            prestige=55
+  Blue Brigade Commander Sea B             Mistral-Small-2503                            prestige=80
+  Blue Chief of Staff                      Mistral-Small-2503                            prestige=80
+  Blue Major General Air                   gpt-4.1                                       prestige=90
+  Blue Major General Land                  gpt-4.1                                       prestige=72
+  Blue Major General Sea                   gpt-4o                                        prestige=55
+  Green Brigade Commander Air A             gpt-4.1-mini                                  prestige=85
+  Green Brigade Commander Air B             Phi-4-reasoning                               prestige=47
+  Green Brigade Commander Land A            Qwen3-32B                                     prestige=60
+  Green Brigade Commander Land B            Codestral-2501                                prestige=55
+  Green Brigade Commander Sea A             gpt-4.1-nano                                  prestige=65
+  Green Brigade Commander Sea B             gpt-4o                                        prestige=7 [DQ]
+  Green Chief of Staff                      Qwen3-32B                                     prestige=60
+  Green Major General Air                   gpt-4.1-mini                                  prestige=60
+  Green Major General Land                  gpt-4.1                                       prestige=77
+  Green Major General Sea                   gpt-4.1                                       prestige=82
+
+================================================================================
+
+Simulation #114 | seed=44 | turns=5
+Started : 2026-07-01 14:34:02
+Ended   : 2026-07-01 14:39:20
+Duration: 318.4s
+Winner  : 🟢 GREEN WINS — Mutual annihilation, but Green holds decisive territorial advantage!
+
+Blue  final: Troops=0 | Ships=75 | Aircraft=12 | Territory=43.4%
+Green final: Troops=0 | Ships=77 | Aircraft=12 | Territory=56.6%
+
+Agents:
+  Blue Brigade Commander Air A             Phi-4                                         prestige=80
+  Blue Brigade Commander Air B             gpt-4o                                        prestige=80
+  Blue Brigade Commander Land A            Qwen3-32B                                     prestige=50
+  Blue Brigade Commander Land B            gpt-4.1-nano                                  prestige=65
+  Blue Brigade Commander Sea A             Codestral-2501                                prestige=70
+  Blue Brigade Commander Sea B             gpt-4o                                        prestige=65
+  Blue Chief of Staff                      Qwen3-32B                                     prestige=75
+  Blue Major General Air                   gpt-4.1-mini                                  prestige=60
+  Blue Major General Land                  gpt-4.1                                       prestige=60
+  Blue Major General Sea                   Phi-4                                         prestige=70
+  Green Brigade Commander Air A             gpt-4.1-mini                                  prestige=60
+  Green Brigade Commander Air B             Qwen3-32B                                     prestige=50
+  Green Brigade Commander Land A            gpt-4o-mini                                   prestige=80
+  Green Brigade Commander Land B            gpt-4.1                                       prestige=70
+  Green Brigade Commander Sea A             gpt-4.1-nano                                  prestige=60
+  Green Brigade Commander Sea B             gpt-4.1-nano                                  prestige=70
+  Green Chief of Staff                      Phi-4-reasoning                               prestige=65
+  Green Major General Air                   gpt-4.1-mini                                  prestige=70
+  Green Major General Land                  gpt-4o-mini                                   prestige=80
+  Green Major General Sea                   Llama-4-Scout-17B-16E-Instruct                prestige=70
+
+================================================================================
+
 Simulation #115 | seed=45 | turns=6
 Started : 2026-07-01 14:39:20
 Ended   : 2026-07-01 14:52:56
@@ -28,3 +655,630 @@ Agents:
   Green Major General Air                   Mistral-Small-2503                            prestige=75
   Green Major General Land                  gpt-4.1-mini                                  prestige=60
   Green Major General Sea                   Ministral-3B                                  prestige=87
+
+================================================================================
+
+Simulation #128 | seed=42 | turns=6
+Started : 2026-07-07 23:14:17
+Ended   : 2026-07-07 23:31:59
+Duration: 1061.7s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=4,824 | Ships=147 | Aircraft=65 | Territory=83.8%
+Green final: Troops=0 | Ships=118 | Aircraft=25 | Territory=16.2%
+
+Agents:
+  Blue Brigade Commander Air A             Qwen3-32B                                     prestige=0 [DQ]
+  Blue Brigade Commander Air B             Mistral-Small-2503                            prestige=85
+  Blue Brigade Commander Land A            Phi-4                                         prestige=90
+  Blue Brigade Commander Land B            Phi-4                                         prestige=65
+  Blue Brigade Commander Sea A             gpt-4.1-nano                                  prestige=0 [DQ]
+  Blue Brigade Commander Sea B             gpt-4.1                                       prestige=72
+  Blue Chief of Staff                      Phi-4                                         prestige=65
+  Blue Major General Air                   gpt-4.1                                       prestige=77
+  Blue Major General Land                  Phi-4                                         prestige=60
+  Blue Major General Sea                   gpt-4.1-mini                                  prestige=70
+  Green Brigade Commander Air A             gpt-4.1-nano                                  prestige=78
+  Green Brigade Commander Air B             gpt-4.1-mini                                  prestige=55
+  Green Brigade Commander Land A            gpt-4.1                                       prestige=0 [DQ]
+  Green Brigade Commander Land B            gpt-4.1-mini                                  prestige=0 [DQ]
+  Green Brigade Commander Sea A             Phi-4-reasoning                               prestige=46
+  Green Brigade Commander Sea B             gpt-4.1                                       prestige=50
+  Green Chief of Staff                      Phi-4-reasoning                               prestige=44
+  Green Major General Air                   gpt-4o-mini                                   prestige=70
+  Green Major General Land                  gpt-4.1-nano                                  prestige=87
+  Green Major General Sea                   gpt-4.1-nano                                  prestige=50
+
+================================================================================
+
+Simulation #153 | seed=42 | turns=6
+Started : 2026-07-07 23:10:07
+Ended   : 2026-07-07 23:19:23
+Duration: 556.4s
+Winner  : 🟢 GREEN WINS — Blue ground forces annihilated!
+
+Blue  final: Troops=0 | Ships=82 | Aircraft=17 | Territory=32.0%
+Green final: Troops=1,857 | Ships=126 | Aircraft=42 | Territory=68.0%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4.1                                       prestige=60
+  Blue Brigade Commander Air B             gpt-4.1-mini                                  prestige=70
+  Blue Brigade Commander Land A            Qwen3-32B                                     prestige=54
+  Blue Brigade Commander Land B            Qwen3-32B                                     prestige=0 [DQ]
+  Blue Brigade Commander Sea A             gpt-4o-mini                                   prestige=80
+  Blue Brigade Commander Sea B             Phi-4-reasoning                               prestige=59
+  Blue Chief of Staff                      Qwen3-32B                                     prestige=62
+  Blue Major General Air                   Phi-4-reasoning                               prestige=59
+  Blue Major General Land                  Qwen3-32B                                     prestige=67
+  Blue Major General Sea                   Phi-4                                         prestige=72
+  Green Brigade Commander Air A             gpt-4o-mini                                   prestige=65
+  Green Brigade Commander Air B             Phi-4                                         prestige=70
+  Green Brigade Commander Land A            Phi-4-reasoning                               prestige=72
+  Green Brigade Commander Land B            Phi-4                                         prestige=70
+  Green Brigade Commander Sea A             gpt-4o                                        prestige=100
+  Green Brigade Commander Sea B             Phi-4-reasoning                               prestige=60
+  Green Chief of Staff                      gpt-4o                                        prestige=80
+  Green Major General Air                   Mistral-Small-2503                            prestige=75
+  Green Major General Land                  gpt-4o-mini                                   prestige=65
+  Green Major General Sea                   gpt-4o-mini                                   prestige=50
+
+================================================================================
+
+Simulation #205 | seed=42 | turns=9
+Started : 2026-07-09 13:53:28
+Ended   : 2026-07-09 14:03:45
+Duration: 617.2s
+Winner  : 🟢 GREEN WINS — Blue ground forces annihilated!
+
+Blue  final: Troops=0 | Ships=114 | Aircraft=28 | Territory=52.0%
+Green final: Troops=350 | Ships=91 | Aircraft=27 | Territory=48.0%
+
+Agents:
+  Blue Brigade Commander Air A             DeepSeek-V3-0324                              prestige=0 [DQ]
+  Blue Brigade Commander Air B             Phi-4-reasoning                               prestige=47
+  Blue Brigade Commander Land A            DeepSeek-V3-0324                              prestige=35
+  Blue Brigade Commander Land B            DeepSeek-R1                                   prestige=77
+  Blue Brigade Commander Sea A             gpt-4.1-mini                                  prestige=87
+  Blue Brigade Commander Sea B             Phi-4-reasoning                               prestige=50
+  Blue Chief of Staff                      Qwen3-32B                                     prestige=69
+  Blue Major General Air                   Qwen3-32B                                     prestige=61
+  Blue Major General Land                  Phi-4-reasoning                               prestige=51
+  Blue Major General Sea                   Qwen3-32B                                     prestige=0 [DQ]
+  Green Brigade Commander Air A             DeepSeek-V3-0324                              prestige=70
+  Green Brigade Commander Air B             Phi-4-reasoning                               prestige=49
+  Green Brigade Commander Land A            DeepSeek-V3-0324                              prestige=95
+  Green Brigade Commander Land B            DeepSeek-R1                                   prestige=44
+  Green Brigade Commander Sea A             gpt-4.1-mini                                  prestige=100
+  Green Brigade Commander Sea B             Phi-4-reasoning                               prestige=51
+  Green Chief of Staff                      Qwen3-32B                                     prestige=32
+  Green Major General Air                   Qwen3-32B                                     prestige=38
+  Green Major General Land                  Phi-4-reasoning                               prestige=38
+  Green Major General Sea                   Qwen3-32B                                     prestige=50
+
+================================================================================
+
+Simulation #206 | seed=43 | turns=8
+Started : 2026-07-09 14:03:45
+Ended   : 2026-07-09 14:12:02
+Duration: 497.0s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=855 | Ships=131 | Aircraft=28 | Territory=57.7%
+Green final: Troops=0 | Ships=96 | Aircraft=16 | Territory=42.3%
+
+Agents:
+  Blue Brigade Commander Air A             Ministral-3B                                  prestige=80
+  Blue Brigade Commander Air B             Phi-4-reasoning                               prestige=35
+  Blue Brigade Commander Land A            DeepSeek-V3-0324                              prestige=55
+  Blue Brigade Commander Land B            DeepSeek-V3-0324                              prestige=80
+  Blue Brigade Commander Sea A             Qwen3-32B                                     prestige=47
+  Blue Brigade Commander Sea B             DeepSeek-R1-0528                              prestige=33
+  Blue Chief of Staff                      Qwen3-32B                                     prestige=35
+  Blue Major General Air                   Mistral-Small-2503                            prestige=80
+  Blue Major General Land                  Codestral-2501                                prestige=90
+  Blue Major General Sea                   gpt-4o-mini                                   prestige=55
+  Green Brigade Commander Air A             Ministral-3B                                  prestige=75
+  Green Brigade Commander Air B             Phi-4-reasoning                               prestige=57
+  Green Brigade Commander Land A            DeepSeek-V3-0324                              prestige=70
+  Green Brigade Commander Land B            DeepSeek-V3-0324                              prestige=65
+  Green Brigade Commander Sea A             Qwen3-32B                                     prestige=46
+  Green Brigade Commander Sea B             DeepSeek-R1-0528                              prestige=0 [DQ]
+  Green Chief of Staff                      Qwen3-32B                                     prestige=51
+  Green Major General Air                   Mistral-Small-2503                            prestige=75
+  Green Major General Land                  Codestral-2501                                prestige=70
+  Green Major General Sea                   gpt-4o-mini                                   prestige=95
+
+================================================================================
+
+Simulation #207 | seed=44 | turns=5
+Started : 2026-07-09 14:12:02
+Ended   : 2026-07-09 14:16:25
+Duration: 263.2s
+Winner  : 🟢 GREEN WINS — Blue ground forces annihilated!
+
+Blue  final: Troops=0 | Ships=94 | Aircraft=10 | Territory=36.5%
+Green final: Troops=1,972 | Ships=102 | Aircraft=35 | Territory=63.5%
+
+Agents:
+  Blue Brigade Commander Air A             Phi-4-reasoning                               prestige=46
+  Blue Brigade Commander Air B             gpt-4o                                        prestige=5 [DQ]
+  Blue Brigade Commander Land A            Codestral-2501                                prestige=60
+  Blue Brigade Commander Land B            Ministral-3B                                  prestige=70
+  Blue Brigade Commander Sea A             gpt-4.1-mini                                  prestige=75
+  Blue Brigade Commander Sea B             Llama-4-Scout-17B-16E-Instruct                prestige=60
+  Blue Chief of Staff                      DeepSeek-R1-0528                              prestige=70
+  Blue Major General Air                   gpt-4o-mini                                   prestige=65
+  Blue Major General Land                  Ministral-3B                                  prestige=65
+  Blue Major General Sea                   DeepSeek-R1                                   prestige=65
+  Green Brigade Commander Air A             Phi-4-reasoning                               prestige=52
+  Green Brigade Commander Air B             gpt-4o                                        prestige=50
+  Green Brigade Commander Land A            Codestral-2501                                prestige=65
+  Green Brigade Commander Land B            Ministral-3B                                  prestige=75
+  Green Brigade Commander Sea A             gpt-4.1-mini                                  prestige=60
+  Green Brigade Commander Sea B             Llama-4-Scout-17B-16E-Instruct                prestige=60
+  Green Chief of Staff                      DeepSeek-R1-0528                              prestige=65
+  Green Major General Air                   gpt-4o-mini                                   prestige=75
+  Green Major General Land                  Ministral-3B                                  prestige=75
+  Green Major General Sea                   DeepSeek-R1                                   prestige=75
+
+================================================================================
+
+Simulation #208 | seed=45 | turns=6
+Started : 2026-07-09 14:16:25
+Ended   : 2026-07-09 14:25:49
+Duration: 563.8s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=1,668 | Ships=121 | Aircraft=27 | Territory=70.8%
+Green final: Troops=0 | Ships=96 | Aircraft=18 | Territory=29.2%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4o-mini                                   prestige=60
+  Blue Brigade Commander Air B             Mistral-Small-2503                            prestige=65
+  Blue Brigade Commander Land A            Qwen3-32B                                     prestige=75
+  Blue Brigade Commander Land B            Ministral-3B                                  prestige=80
+  Blue Brigade Commander Sea A             gpt-4o-mini                                   prestige=50
+  Blue Brigade Commander Sea B             DeepSeek-R1-0528                              prestige=60
+  Blue Chief of Staff                      DeepSeek-R1-0528                              prestige=65
+  Blue Major General Air                   Phi-4                                         prestige=75
+  Blue Major General Land                  gpt-4.1-mini                                  prestige=75
+  Blue Major General Sea                   DeepSeek-R1                                   prestige=75
+  Green Brigade Commander Air A             gpt-4o-mini                                   prestige=60
+  Green Brigade Commander Air B             Mistral-Small-2503                            prestige=65
+  Green Brigade Commander Land A            Qwen3-32B                                     prestige=52
+  Green Brigade Commander Land B            Ministral-3B                                  prestige=55
+  Green Brigade Commander Sea A             gpt-4o-mini                                   prestige=90
+  Green Brigade Commander Sea B             DeepSeek-R1-0528                              prestige=60
+  Green Chief of Staff                      DeepSeek-R1-0528                              prestige=80
+  Green Major General Air                   Phi-4                                         prestige=0 [DQ]
+  Green Major General Land                  gpt-4.1-mini                                  prestige=65
+  Green Major General Sea                   DeepSeek-R1                                   prestige=10 [DQ]
+
+================================================================================
+
+Simulation #209 | seed=46 | turns=6
+Started : 2026-07-09 14:25:49
+Ended   : 2026-07-09 14:40:45
+Duration: 896.4s
+Winner  : 🟢 GREEN WINS — Blue ground forces annihilated!
+
+Blue  final: Troops=0 | Ships=116 | Aircraft=34 | Territory=29.7%
+Green final: Troops=3,878 | Ships=151 | Aircraft=55 | Territory=70.3%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4.1-mini                                  prestige=0 [DQ]
+  Blue Brigade Commander Air B             gpt-4o                                        prestige=0 [DQ]
+  Blue Brigade Commander Land A            Mistral-Small-2503                            prestige=70
+  Blue Brigade Commander Land B            DeepSeek-V3-0324                              prestige=60
+  Blue Brigade Commander Sea A             Qwen3-32B                                     prestige=0 [DQ]
+  Blue Brigade Commander Sea B             Ministral-3B                                  prestige=70
+  Blue Chief of Staff                      Codestral-2501                                prestige=65
+  Blue Major General Air                   gpt-4o-mini                                   prestige=100
+  Blue Major General Land                  DeepSeek-V3-0324                              prestige=50
+  Blue Major General Sea                   Qwen3-32B                                     prestige=60
+  Green Brigade Commander Air A             gpt-4.1-mini                                  prestige=90
+  Green Brigade Commander Air B             gpt-4o                                        prestige=0 [DQ]
+  Green Brigade Commander Land A            Mistral-Small-2503                            prestige=80
+  Green Brigade Commander Land B            DeepSeek-V3-0324                              prestige=50
+  Green Brigade Commander Sea A             Qwen3-32B                                     prestige=60
+  Green Brigade Commander Sea B             Ministral-3B                                  prestige=65
+  Green Chief of Staff                      Codestral-2501                                prestige=60
+  Green Major General Air                   gpt-4o-mini                                   prestige=75
+  Green Major General Land                  DeepSeek-V3-0324                              prestige=50
+  Green Major General Sea                   Qwen3-32B                                     prestige=70
+
+================================================================================
+
+Simulation #210 | seed=47 | turns=9
+Started : 2026-07-09 14:40:45
+Ended   : 2026-07-09 15:13:38
+Duration: 1972.9s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=1,447 | Ships=106 | Aircraft=22 | Territory=60.8%
+Green final: Troops=0 | Ships=88 | Aircraft=16 | Territory=39.2%
+
+Agents:
+  Blue Brigade Commander Air A             Phi-4                                         prestige=60
+  Blue Brigade Commander Air B             gpt-4o                                        prestige=60
+  Blue Brigade Commander Land A            gpt-4o-mini                                   prestige=100
+  Blue Brigade Commander Land B            DeepSeek-V3-0324                              prestige=50
+  Blue Brigade Commander Sea A             gpt-4.1-mini                                  prestige=80
+  Blue Brigade Commander Sea B             gpt-4o-mini                                   prestige=90
+  Blue Chief of Staff                      DeepSeek-R1-0528                              prestige=50
+  Blue Major General Air                   DeepSeek-R1-0528                              prestige=50
+  Blue Major General Land                  Codestral-2501                                prestige=55
+  Blue Major General Sea                   Llama-4-Scout-17B-16E-Instruct                prestige=65
+  Green Brigade Commander Air A             Phi-4                                         prestige=5 [DQ]
+  Green Brigade Commander Air B             gpt-4o                                        prestige=60
+  Green Brigade Commander Land A            gpt-4o-mini                                   prestige=65
+  Green Brigade Commander Land B            DeepSeek-V3-0324                              prestige=50
+  Green Brigade Commander Sea A             gpt-4.1-mini                                  prestige=0 [DQ]
+  Green Brigade Commander Sea B             gpt-4o-mini                                   prestige=50
+  Green Chief of Staff                      DeepSeek-R1-0528                              prestige=50
+  Green Major General Air                   DeepSeek-R1-0528                              prestige=60
+  Green Major General Land                  Codestral-2501                                prestige=75
+  Green Major General Sea                   Llama-4-Scout-17B-16E-Instruct                prestige=65
+
+================================================================================
+
+Simulation #216 | seed=42 | turns=5
+Started : 2026-07-05 22:21:49
+Ended   : 2026-07-05 22:26:24
+Duration: 275.5s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=2,396 | Ships=126 | Aircraft=51 | Territory=76.3%
+Green final: Troops=0 | Ships=84 | Aircraft=18 | Territory=23.7%
+
+Agents:
+  Blue Brigade Commander Air A             DeepSeek-V3-0324                              prestige=55
+  Blue Brigade Commander Air B             Qwen3-32B                                     prestige=52
+  Blue Brigade Commander Land A            Ministral-3B                                  prestige=65
+  Blue Brigade Commander Land B            Ministral-3B                                  prestige=75
+  Blue Brigade Commander Sea A             Phi-4-reasoning                               prestige=75
+  Blue Brigade Commander Sea B             DeepSeek-R1-0528                              prestige=46
+  Blue Chief of Staff                      gpt-4o                                        prestige=70
+  Blue Major General Air                   gpt-4o-mini                                   prestige=85
+  Blue Major General Land                  gpt-4.1                                       prestige=60
+  Blue Major General Sea                   Mistral-Small-2503                            prestige=70
+  Green Brigade Commander Air A             DeepSeek-R1-0528                              prestige=60
+  Green Brigade Commander Air B             Codestral-2501                                prestige=67
+  Green Brigade Commander Land A            DeepSeek-R1                                   prestige=67
+  Green Brigade Commander Land B            gpt-4.1                                       prestige=65
+  Green Brigade Commander Sea A             gpt-4.1                                       prestige=5 [DQ]
+  Green Brigade Commander Sea B             gpt-4o                                        prestige=60
+  Green Chief of Staff                      gpt-4o                                        prestige=75
+  Green Major General Air                   Phi-4-reasoning                               prestige=49
+  Green Major General Land                  Phi-4-reasoning                               prestige=55
+  Green Major General Sea                   Phi-4-reasoning                               prestige=70
+
+================================================================================
+
+Simulation #217 | seed=43 | turns=5
+Started : 2026-07-05 22:26:24
+Ended   : 2026-07-05 22:34:18
+Duration: 473.9s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=884 | Ships=118 | Aircraft=36 | Territory=76.5%
+Green final: Troops=0 | Ships=86 | Aircraft=19 | Territory=23.5%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4.1                                       prestige=88
+  Blue Brigade Commander Air B             gpt-4o-mini                                   prestige=90
+  Blue Brigade Commander Land A            Ministral-3B                                  prestige=60
+  Blue Brigade Commander Land B            Ministral-3B                                  prestige=60
+  Blue Brigade Commander Sea A             gpt-4o-mini                                   prestige=55
+  Blue Brigade Commander Sea B             DeepSeek-R1-0528                              prestige=80
+  Blue Chief of Staff                      gpt-4.1-nano                                  prestige=70
+  Blue Major General Air                   DeepSeek-R1-0528                              prestige=75
+  Blue Major General Land                  gpt-4.1-mini                                  prestige=80
+  Blue Major General Sea                   gpt-4.1-nano                                  prestige=55
+  Green Brigade Commander Air A             gpt-4.1-mini                                  prestige=85
+  Green Brigade Commander Air B             Ministral-3B                                  prestige=60
+  Green Brigade Commander Land A            gpt-4.1                                       prestige=60
+  Green Brigade Commander Land B            gpt-4.1                                       prestige=0 [DQ]
+  Green Brigade Commander Sea A             DeepSeek-R1                                   prestige=44
+  Green Brigade Commander Sea B             DeepSeek-R1-0528                              prestige=65
+  Green Chief of Staff                      Mistral-Small-2503                            prestige=65
+  Green Major General Air                   gpt-4.1-mini                                  prestige=55
+  Green Major General Land                  gpt-4o                                        prestige=80
+  Green Major General Sea                   Ministral-3B                                  prestige=85
+
+================================================================================
+
+Simulation #218 | seed=44 | turns=5
+Started : 2026-07-05 22:34:18
+Ended   : 2026-07-05 22:39:22
+Duration: 303.6s
+Winner  : ⚪ DRAW — Mutual annihilation with no decisive territorial advantage (Blue 52.4% / Green 47.6%)!
+
+Blue  final: Troops=0 | Ships=84 | Aircraft=19 | Territory=52.4%
+Green final: Troops=0 | Ships=91 | Aircraft=13 | Territory=47.6%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4.1-nano                                  prestige=77
+  Blue Brigade Commander Air B             Phi-4-reasoning                               prestige=49
+  Blue Brigade Commander Land A            gpt-4.1                                       prestige=67
+  Blue Brigade Commander Land B            Mistral-Small-2503                            prestige=70
+  Blue Brigade Commander Sea A             Mistral-Small-2503                            prestige=70
+  Blue Brigade Commander Sea B             Mistral-Small-2503                            prestige=75
+  Blue Chief of Staff                      gpt-4.1-nano                                  prestige=70
+  Blue Major General Air                   Ministral-3B                                  prestige=60
+  Blue Major General Land                  gpt-4.1                                       prestige=55
+  Blue Major General Sea                   gpt-4o                                        prestige=65
+  Green Brigade Commander Air A             Ministral-3B                                  prestige=65
+  Green Brigade Commander Air B             gpt-4.1-mini                                  prestige=50
+  Green Brigade Commander Land A            gpt-4o                                        prestige=75
+  Green Brigade Commander Land B            Codestral-2501                                prestige=70
+  Green Brigade Commander Sea A             gpt-4.1-mini                                  prestige=60
+  Green Brigade Commander Sea B             Codestral-2501                                prestige=65
+  Green Chief of Staff                      Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Green Major General Air                   Ministral-3B                                  prestige=65
+  Green Major General Land                  DeepSeek-V3-0324                              prestige=70
+  Green Major General Sea                   Qwen3-32B                                     prestige=90
+
+================================================================================
+
+Simulation #261 | seed=42 | turns=7
+Started : 2026-07-09 15:35:21
+Ended   : 2026-07-09 15:57:00
+Duration: 1299.0s
+Winner  : 🟢 GREEN WINS — Mutual annihilation, but Green holds decisive territorial advantage!
+
+Blue  final: Troops=0 | Ships=72 | Aircraft=14 | Territory=40.6%
+Green final: Troops=0 | Ships=93 | Aircraft=21 | Territory=59.4%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4o                                        prestige=55
+  Blue Brigade Commander Air B             Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Blue Brigade Commander Land A            gpt-4o-mini                                   prestige=70
+  Blue Brigade Commander Land B            Mistral-Small-2503                            prestige=95
+  Blue Brigade Commander Sea A             gpt-4.1                                       prestige=59
+  Blue Brigade Commander Sea B             Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Blue Chief of Staff                      gpt-4o                                        prestige=65
+  Blue Major General Air                   Mistral-Small-2503                            prestige=85
+  Blue Major General Land                  Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Blue Major General Sea                   gpt-4o-mini                                   prestige=70
+  Green Brigade Commander Air A             gpt-4o                                        prestige=65
+  Green Brigade Commander Air B             Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Green Brigade Commander Land A            gpt-4o-mini                                   prestige=85
+  Green Brigade Commander Land B            Mistral-Small-2503                            prestige=65
+  Green Brigade Commander Sea A             gpt-4.1                                       prestige=80
+  Green Brigade Commander Sea B             Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Green Chief of Staff                      gpt-4o                                        prestige=80
+  Green Major General Air                   Mistral-Small-2503                            prestige=90
+  Green Major General Land                  Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Green Major General Sea                   gpt-4o-mini                                   prestige=50
+
+================================================================================
+
+Simulation #312 | seed=42 | turns=14
+Started : 2026-07-11 13:01:06
+Ended   : 2026-07-11 13:49:38
+Duration: 2911.3s
+Winner  : 
+
+Blue  final: Troops=768 | Ships=116 | Aircraft=36 | Territory=47.2%
+Green final: Troops=2,219 | Ships=117 | Aircraft=36 | Territory=52.8%
+
+Agents:
+  Blue Brigade Commander Air A             DeepSeek-V3-0324                              prestige=55
+  Blue Brigade Commander Air B             gpt-4.1-nano                                  prestige=73
+  Blue Brigade Commander Land A            DeepSeek-V3-0324                              prestige=68
+  Blue Brigade Commander Land B            gpt-4.1-mini                                  prestige=0 [DQ]
+  Blue Brigade Commander Sea A             DeepSeek-R1                                   prestige=47
+  Blue Brigade Commander Sea B             gpt-4.1-nano                                  prestige=55
+  Blue Chief of Staff                      Qwen3-32B                                     prestige=50
+  Blue Major General Air                   Qwen3-32B                                     prestige=58
+  Blue Major General Land                  gpt-4.1-nano                                  prestige=80
+  Blue Major General Sea                   Qwen3-32B                                     prestige=46
+  Green Brigade Commander Air A             DeepSeek-V3-0324                              prestige=60
+  Green Brigade Commander Air B             gpt-4.1-nano                                  prestige=60
+  Green Brigade Commander Land A            DeepSeek-V3-0324                              prestige=55
+  Green Brigade Commander Land B            gpt-4.1-mini                                  prestige=100
+  Green Brigade Commander Sea A             DeepSeek-R1                                   prestige=62
+  Green Brigade Commander Sea B             gpt-4.1-nano                                  prestige=0 [DQ]
+  Green Chief of Staff                      Qwen3-32B                                     prestige=59
+  Green Major General Air                   Qwen3-32B                                     prestige=43
+  Green Major General Land                  gpt-4.1-nano                                  prestige=0 [DQ]
+  Green Major General Sea                   Qwen3-32B                                     prestige=57
+
+================================================================================
+
+Simulation #362 | seed=42 | turns=8
+Started : 2026-07-11 13:01:56
+Ended   : 2026-07-11 13:15:30
+Duration: 813.6s
+Winner  : ⚪ DRAW — Mutual annihilation with no decisive territorial advantage (Blue 45.5% / Green 54.5%)!
+
+Blue  final: Troops=0 | Ships=89 | Aircraft=17 | Territory=45.5%
+Green final: Troops=0 | Ships=102 | Aircraft=30 | Territory=54.5%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4o                                        prestige=55
+  Blue Brigade Commander Air B             Phi-4                                         prestige=65
+  Blue Brigade Commander Land A            Qwen3-32B                                     prestige=72
+  Blue Brigade Commander Land B            Qwen3-32B                                     prestige=61
+  Blue Brigade Commander Sea A             Phi-4                                         prestige=65
+  Blue Brigade Commander Sea B             Phi-4                                         prestige=0 [DQ]
+  Blue Chief of Staff                      gpt-4o                                        prestige=65
+  Blue Major General Air                   Codestral-2501                                prestige=93
+  Blue Major General Land                  Llama-4-Scout-17B-16E-Instruct                prestige=65
+  Blue Major General Sea                   Phi-4-reasoning                               prestige=56
+  Green Brigade Commander Air A             gpt-4o                                        prestige=80
+  Green Brigade Commander Air B             Phi-4                                         prestige=90
+  Green Brigade Commander Land A            Qwen3-32B                                     prestige=67
+  Green Brigade Commander Land B            Qwen3-32B                                     prestige=54
+  Green Brigade Commander Sea A             Phi-4                                         prestige=80
+  Green Brigade Commander Sea B             Phi-4                                         prestige=0 [DQ]
+  Green Chief of Staff                      gpt-4o                                        prestige=100
+  Green Major General Air                   Codestral-2501                                prestige=0 [DQ]
+  Green Major General Land                  Llama-4-Scout-17B-16E-Instruct                prestige=70
+  Green Major General Sea                   Phi-4-reasoning                               prestige=51
+
+================================================================================
+
+Simulation #363 | seed=43 | turns=5
+Started : 2026-07-11 13:15:30
+Ended   : 2026-07-11 13:22:17
+Duration: 406.5s
+Winner  : 🔵 BLUE WINS — Green ground forces annihilated!
+
+Blue  final: Troops=570 | Ships=101 | Aircraft=28 | Territory=66.6%
+Green final: Troops=0 | Ships=112 | Aircraft=17 | Territory=33.4%
+
+Agents:
+  Blue Brigade Commander Air A             Llama-4-Scout-17B-16E-Instruct                prestige=75
+  Blue Brigade Commander Air B             Llama-4-Scout-17B-16E-Instruct                prestige=85
+  Blue Brigade Commander Land A            Phi-4                                         prestige=60
+  Blue Brigade Commander Land B            Codestral-2501                                prestige=55
+  Blue Brigade Commander Sea A             Mistral-Small-2503                            prestige=60
+  Blue Brigade Commander Sea B             Llama-4-Scout-17B-16E-Instruct                prestige=70
+  Blue Chief of Staff                      Codestral-2501                                prestige=60
+  Blue Major General Air                   Mistral-Small-2503                            prestige=80
+  Blue Major General Land                  Codestral-2501                                prestige=70
+  Blue Major General Sea                   Qwen3-32B                                     prestige=55
+  Green Brigade Commander Air A             Llama-4-Scout-17B-16E-Instruct                prestige=70
+  Green Brigade Commander Air B             Llama-4-Scout-17B-16E-Instruct                prestige=55
+  Green Brigade Commander Land A            Phi-4                                         prestige=0 [DQ]
+  Green Brigade Commander Land B            Codestral-2501                                prestige=50
+  Green Brigade Commander Sea A             Mistral-Small-2503                            prestige=70
+  Green Brigade Commander Sea B             Llama-4-Scout-17B-16E-Instruct                prestige=70
+  Green Chief of Staff                      Codestral-2501                                prestige=70
+  Green Major General Air                   Mistral-Small-2503                            prestige=60
+  Green Major General Land                  Codestral-2501                                prestige=80
+  Green Major General Sea                   Qwen3-32B                                     prestige=59
+
+================================================================================
+
+Simulation #364 | seed=44 | turns=6
+Started : 2026-07-11 13:22:17
+Ended   : 2026-07-11 13:28:08
+Duration: 351.2s
+Winner  : ⚪ DRAW — Mutual annihilation with no decisive territorial advantage (Blue 49.7% / Green 50.3%)!
+
+Blue  final: Troops=0 | Ships=83 | Aircraft=20 | Territory=49.7%
+Green final: Troops=0 | Ships=90 | Aircraft=8 | Territory=50.3%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4o-mini                                   prestige=85
+  Blue Brigade Commander Air B             Phi-4                                         prestige=0 [DQ]
+  Blue Brigade Commander Land A            Qwen3-32B                                     prestige=60
+  Blue Brigade Commander Land B            Phi-4-reasoning                               prestige=49
+  Blue Brigade Commander Sea A             Mistral-Small-2503                            prestige=80
+  Blue Brigade Commander Sea B             gpt-4.1                                       prestige=79
+  Blue Chief of Staff                      gpt-4.1                                       prestige=71
+  Blue Major General Air                   Phi-4                                         prestige=75
+  Blue Major General Land                  Codestral-2501                                prestige=65
+  Blue Major General Sea                   gpt-4o-mini                                   prestige=65
+  Green Brigade Commander Air A             gpt-4o-mini                                   prestige=45
+  Green Brigade Commander Air B             Phi-4                                         prestige=0 [DQ]
+  Green Brigade Commander Land A            Qwen3-32B                                     prestige=75
+  Green Brigade Commander Land B            Phi-4-reasoning                               prestige=59
+  Green Brigade Commander Sea A             Mistral-Small-2503                            prestige=75
+  Green Brigade Commander Sea B             gpt-4.1                                       prestige=65
+  Green Chief of Staff                      gpt-4.1                                       prestige=74
+  Green Major General Air                   Phi-4                                         prestige=80
+  Green Major General Land                  Codestral-2501                                prestige=75
+  Green Major General Sea                   gpt-4o-mini                                   prestige=70
+
+================================================================================
+
+Simulation #365 | seed=45 | turns=11
+Started : 2026-07-11 13:28:08
+Ended   : 2026-07-11 14:12:05
+Duration: 2637.3s
+Winner  : 🟢 GREEN WINS — Blue ground forces annihilated!
+
+Blue  final: Troops=0 | Ships=102 | Aircraft=20 | Territory=32.4%
+Green final: Troops=2,433 | Ships=121 | Aircraft=38 | Territory=67.6%
+
+Agents:
+  Blue Brigade Commander Air A             Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Blue Brigade Commander Air B             gpt-4.1                                       prestige=5 [DQ]
+  Blue Brigade Commander Land A            Qwen3-32B                                     prestige=50
+  Blue Brigade Commander Land B            gpt-4o                                        prestige=0 [DQ]
+  Blue Brigade Commander Sea A             Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Blue Brigade Commander Sea B             Qwen3-32B                                     prestige=55
+  Blue Chief of Staff                      Phi-4                                         prestige=65
+  Blue Major General Air                   Mistral-Small-2503                            prestige=100
+  Blue Major General Land                  Llama-4-Scout-17B-16E-Instruct                prestige=60
+  Blue Major General Sea                   gpt-4o                                        prestige=90
+  Green Brigade Commander Air A             Llama-4-Scout-17B-16E-Instruct                prestige=60
+  Green Brigade Commander Air B             gpt-4.1                                       prestige=78
+  Green Brigade Commander Land A            Qwen3-32B                                     prestige=50
+  Green Brigade Commander Land B            gpt-4o                                        prestige=70
+  Green Brigade Commander Sea A             Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Green Brigade Commander Sea B             Qwen3-32B                                     prestige=55
+  Green Chief of Staff                      Phi-4                                         prestige=73
+  Green Major General Air                   Mistral-Small-2503                            prestige=100
+  Green Major General Land                  Llama-4-Scout-17B-16E-Instruct                prestige=55
+  Green Major General Sea                   gpt-4o                                        prestige=90
+
+================================================================================
+
+Simulation #366 | seed=46 | turns=19
+Started : 2026-07-11 14:12:05
+Ended   : 2026-07-11 15:27:24
+Duration: 4518.4s
+Winner  : 🟢 GREEN WINS — Blue ground forces annihilated!
+
+Blue  final: Troops=0 | Ships=111 | Aircraft=36 | Territory=40.4%
+Green final: Troops=1,662 | Ships=118 | Aircraft=35 | Territory=59.6%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4o-mini                                   prestige=100
+  Blue Brigade Commander Air B             Qwen3-32B                                     prestige=50
+  Blue Brigade Commander Land A            gpt-4.1-nano                                  prestige=20 [DQ]
+  Blue Brigade Commander Land B            gpt-4o-mini                                   prestige=60
+  Blue Brigade Commander Sea A             Qwen3-32B                                     prestige=50
+  Blue Brigade Commander Sea B             Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Blue Chief of Staff                      Llama-4-Scout-17B-16E-Instruct                prestige=60
+  Blue Major General Air                   Phi-4-reasoning                               prestige=23
+  Blue Major General Land                  Llama-4-Scout-17B-16E-Instruct                prestige=60
+  Blue Major General Sea                   Phi-4                                         prestige=15 [DQ]
+  Green Brigade Commander Air A             gpt-4o-mini                                   prestige=100
+  Green Brigade Commander Air B             Qwen3-32B                                     prestige=50
+  Green Brigade Commander Land A            gpt-4.1-nano                                  prestige=75
+  Green Brigade Commander Land B            gpt-4o-mini                                   prestige=100
+  Green Brigade Commander Sea A             Qwen3-32B                                     prestige=50
+  Green Brigade Commander Sea B             Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Green Chief of Staff                      Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Green Major General Air                   Phi-4-reasoning                               prestige=29
+  Green Major General Land                  Llama-4-Scout-17B-16E-Instruct                prestige=50
+  Green Major General Sea                   Phi-4                                         prestige=80
+
+================================================================================
+
+Simulation #367 | seed=47 | turns=19
+Started : 2026-07-11 15:27:24
+Ended   : 2026-07-11 17:21:26
+Duration: 6842.2s
+Winner  : 
+
+Blue  final: Troops=10,000 | Ships=200 | Aircraft=100 | Territory=50.0%
+Green final: Troops=10,000 | Ships=200 | Aircraft=100 | Territory=50.0%
+
+Agents:
+  Blue Brigade Commander Air A             gpt-4o-mini                                   prestige=50
+  Blue Brigade Commander Air B             gpt-4o                                        prestige=50
+  Blue Brigade Commander Land A            Phi-4-reasoning                               prestige=50
+  Blue Brigade Commander Land B            Codestral-2501                                prestige=50
+  Blue Brigade Commander Sea A             Codestral-2501                                prestige=50
+  Blue Brigade Commander Sea B             Mistral-Small-2503                            prestige=50
+  Blue Chief of Staff                      Mistral-Small-2503                            prestige=50
+  Blue Major General Air                   Phi-4                                         prestige=50
+  Blue Major General Land                  Codestral-2501                                prestige=50
+  Blue Major General Sea                   gpt-4.1                                       prestige=50
+  Green Brigade Commander Air A             gpt-4o-mini                                   prestige=50
+  Green Brigade Commander Air B             gpt-4o                                        prestige=50
+  Green Brigade Commander Land A            Phi-4-reasoning                               prestige=50
+  Green Brigade Commander Land B            Codestral-2501                                prestige=50
+  Green Brigade Commander Sea A             Codestral-2501                                prestige=50
+  Green Brigade Commander Sea B             Mistral-Small-2503                            prestige=50
+  Green Chief of Staff                      Mistral-Small-2503                            prestige=50
+  Green Major General Air                   Phi-4                                         prestige=50
+  Green Major General Land                  Codestral-2501                                prestige=50
+  Green Major General Sea                   gpt-4.1                                       prestige=50
